@@ -74,6 +74,85 @@ The Agile Methodology is suitable for this project because it supports continuou
 
 10. System Architecture
 <img width="940" height="678" alt="image" src="https://github.com/user-attachments/assets/414e7fe1-efa0-4410-824c-c94c5a8784ad" />
+
+11. Gantt Chart 
+<img width="938" height="686" alt="image" src="https://github.com/user-attachments/assets/2998babe-f93f-44b1-93c4-99d5379ca6e7" />
+
+12. Technology Stack
+Frontend
+•	HTML5 
+•	CSS3 
+•	React Icons 
+•	Data visualization/chart libraries 
+Backend
+•	Django 
+•	Django REST Framework 
+Database
+•	Project database 
+API
+•	Simulated Banking API 
+AI
+•	AI-powered financial analysis and recommendation system 
+Development Tools
+•	Visual Studio Code 
+•	Git 
+•	GitHub 
+
+13. Screenshots
+Landing Page
+<img width="940" height="477" alt="image" src="https://github.com/user-attachments/assets/50871325-2e33-4ae9-abc4-590cae4a7abe" />
+
+Login:
+<img width="940" height="451" alt="image" src="https://github.com/user-attachments/assets/a87c865a-1b2f-48a3-8bb1-2830ec29b8d6" />
+
+Dashboard:
+ <img width="940" height="451" alt="image" src="https://github.com/user-attachments/assets/0d5a20b1-1876-4483-bc7b-f61f65db952b" />
+
+Transaction Page: 
+ <img width="940" height="351" alt="image" src="https://github.com/user-attachments/assets/e419256c-39d9-4452-a27a-954225cb081a" />
+<img width="940" height="442" alt="image" src="https://github.com/user-attachments/assets/1e27eb67-df6b-4f6a-bc11-9a4a44728abf" />
+
+Goals Page:
+ <img width="940" height="379" alt="image" src="https://github.com/user-attachments/assets/7ebe9c7a-1186-4a50-8474-ce5db3e28877" />
+
+Budget Page:
+ <img width="940" height="390" alt="image" src="https://github.com/user-attachments/assets/4268e917-e1bc-4e1a-af94-025784e87df8" />
+
+Report Page:
+ <img width="940" height="447" alt="image" src="https://github.com/user-attachments/assets/302b290f-2679-45a6-a913-e87110ba32b9" />
+
+AI Insights:
+ <img width="940" height="440" alt="image" src="https://github.com/user-attachments/assets/1b5d8a41-e2ad-41b3-9a65-bf5cc41750ea" />
+<img width="940" height="448" alt="image" src="https://github.com/user-attachments/assets/27a08114-8fca-4905-ab86-643cf5a62d72" />
+
+ 
+
+
+
+
+
+
+
+
+
+Investment:
+ 
+Notifications:
+ 
+Profile:
+ 
+
+
+Settings:
+ 
+
+
+
+
+
+
+
+
   
 
 
