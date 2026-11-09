@@ -127,25 +127,25 @@ AI Insights:
 <img width="940" height="448" alt="image" src="https://github.com/user-attachments/assets/27a08114-8fca-4905-ab86-643cf5a62d72" />
 
  
-
-
-
-
-
-
-
-
-
 Investment:
- 
+
+<img width="940" height="324" alt="image" src="https://github.com/user-attachments/assets/558c3878-3de0-44f1-9a5f-c25f25fbe4ef" />
+
 Notifications:
+
+<img width="940" height="398" alt="image" src="https://github.com/user-attachments/assets/18d347d0-ed35-4b93-bdda-1c08cb286a03" />
+
  
 Profile:
- 
+
+<img width="940" height="398" alt="image" src="https://github.com/user-attachments/assets/ca733e10-71c0-4c4f-bdb0-f41cccd529f6" />
+
 
 
 Settings:
- 
+
+<img width="940" height="448" alt="image" src="https://github.com/user-attachments/assets/81507447-dcbd-42c3-a1ab-ff12a291083f" />
+
 
 
 
