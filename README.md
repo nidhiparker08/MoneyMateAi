@@ -103,6 +103,7 @@ Landing Page
 <img width="940" height="477" alt="image" src="https://github.com/user-attachments/assets/50871325-2e33-4ae9-abc4-590cae4a7abe" />
 
 Login:
+
 <img width="940" height="451" alt="image" src="https://github.com/user-attachments/assets/a87c865a-1b2f-48a3-8bb1-2830ec29b8d6" />
 
 Dashboard:
